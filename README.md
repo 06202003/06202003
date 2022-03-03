@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Yehezkiel David Setiawan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr>
-<h5 align="center"> 2<sup>nd</sup> semester student of informatics engineering at Maranatha Christian University. I love coding and sharing ideas with my code. I love meeting new people, exchanging ideas, knowledge, and creativity.</h5>
+<h3 align="center"> 2<sup>nd</sup> semester student of Informatics Engineering at Maranatha Christian University</h3>
 <hr>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;AI+and+ML+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
