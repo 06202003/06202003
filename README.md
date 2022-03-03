@@ -14,21 +14,22 @@
 
 - 📫 How to reach me **yehezkieldavid2006@gmail.com**
 
-- ⚡ Fun fact :- food and music are the reasons to live.
+- ⚡ Fun fact :- food and code are the reasons to live.
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" />
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" />
+	
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> 
 <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" />
+  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> 
   <img
@@ -39,7 +40,8 @@
       width="40" height="40" />
 </p>
 <br>
-<h3>Statistical Data :-</h3>
+<br>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=YehezkielDavid06&show_icons=true&locale=en&layout=compact"
     alt="YehezkielDavid06" /></p>
