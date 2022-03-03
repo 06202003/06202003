@@ -5,9 +5,9 @@
 <hr>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" /></p>
 
-- I’m currently learning Web Development and Python Prog. Language
-- Reach me **yehezkieldavid2006@gmail.com** & **2172003@maranatha.ac.id**
-- EAT, SLEEP, CODE
+- <h5>I’m currently learning Web Development and Python Prog. Language</h5>
+- <h5>Reach me **yehezkieldavid2006@gmail.com** & **2172003@maranatha.ac.id**</h5>
+- <h5>EAT, SLEEP, CODE</h5>
 
 <br>
 
@@ -52,7 +52,7 @@
 
 <hr/>
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 <p>
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
