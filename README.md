@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;AI+and+ML+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <hr>
-<h5 align="center"> I am a 2<sup>nd</sup> semester student of informatics engineering at Maranatha Christian University. I love coding and sharing ideas or knowledge with my code. I love meeting new people, exchanging ideas, knowledge, and creativity.</h5>
+<h5 align="center"> I am a 2<sup>nd</sup> semester student of informatics engineering at Maranatha Christian University. I love coding and sharing ideas with my code. I love meeting new people, exchanging ideas, knowledge, and creativity.</h5>
 <hr>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" /></p>
 
