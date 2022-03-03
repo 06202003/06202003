@@ -39,4 +39,9 @@
       width="40" height="40" />
 </p>
 <br>
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=YehezkielDavid06&show_icons=true&locale=en&layout=compact"
+    alt="YehezkielDavid06" /></p>
+
 <br>
