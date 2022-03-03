@@ -45,3 +45,17 @@
     alt="YehezkielDavid06" /></p>
 
 <br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YehezkielDavid06&show_icons=true&locale=en"
+    alt="YehezkielDavid06" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YehezkielDavid06&" alt="adam-pw" /></p>
+
+<br>
+<h3>Trophies :-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=YehezkielDavid06" alt="adam-pw" /></a> </p>
+
+
