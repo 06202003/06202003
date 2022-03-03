@@ -3,7 +3,7 @@
 <h3 align="center"> 2<sup>nd</sup> semester student of Informatics Engineering at Maranatha Christian University</h3>
 <hr>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Web+Developing+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Web+Development+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" /></p>
 
