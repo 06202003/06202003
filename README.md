@@ -5,9 +5,9 @@
 <hr>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" /></p>
 
-- <h5>I’m currently learning Web Development and Python Prog. Language</h5>
-- <h5>Reach me **yehezkieldavid2006@gmail.com** & **2172003@maranatha.ac.id**</h5>
-- <h5>EAT, SLEEP, CODE</h5>
+- <h3>I’m currently learning Web Development and Python Prog. Language</h3>
+- <h3>Reach me **yehezkieldavid2006@gmail.com** & **2172003@maranatha.ac.id**</h3>
+- <h3>EAT, SLEEP, CODE</h3>
 
 <br>
 
