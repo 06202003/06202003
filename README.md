@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;AI+and+ML+Enthusias&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <hr>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" /></p>
 - 🌱 I’m currently learning Web Development and python programming languages
 
 - 📫 How to reach me **yehezkieldavid2006@gmail.com**
