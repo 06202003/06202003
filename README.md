@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Yehezkiel David Setiawan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<hr>
+<h5 align="center"> 2<sup>nd</sup> semester student of informatics engineering at Maranatha Christian University. I love coding and sharing ideas with my code. I love meeting new people, exchanging ideas, knowledge, and creativity.</h5>
+<hr>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;AI+and+ML+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-<hr>
-<h5 align="center"> I am a 2<sup>nd</sup> semester student of informatics engineering at Maranatha Christian University. I love coding and sharing ideas with my code. I love meeting new people, exchanging ideas, knowledge, and creativity.</h5>
-<hr>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" /></p>
 
 - I’m currently learning Web Development and Python Prog. Language
