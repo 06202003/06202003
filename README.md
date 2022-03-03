@@ -1,18 +1,10 @@
 <h1 align="center">Hi , I'm Yehezkiel David Setiawan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;AI+Enthusias&font=Fira%20Code&center=true&width=380&height=50">
-
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;AI+and+ML+Enthusias&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 ## :sassy_man:  About me
