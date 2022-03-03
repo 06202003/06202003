@@ -2,14 +2,8 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;AI+and+ML+Enthusias&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-
-
-
-
-
+<hr>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
 - 🌱 I’m currently learning Web Development and python programming languages
 
 - 📫 How to reach me **yehezkieldavid2006@gmail.com**
@@ -42,23 +36,20 @@
 <br>
 <br>
 <h3>Statistical Data :</h3>
-<p><img align="center"
+<p><img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=YehezkielDavid06&show_icons=true&locale=en&layout=compact"
     alt="YehezkielDavid06" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YehezkielDavid06&show_icons=true&locale=en"
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=YehezkielDavid06&show_icons=true&locale=en"
     alt="YehezkielDavid06" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YehezkielDavid06&" alt="adam-pw" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=YehezkielDavid06&" alt="adam-pw" /></p>
 
 <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=YehezkielDavid06" alt="adam-pw" /></a> </p>
 
 <hr/>
 
