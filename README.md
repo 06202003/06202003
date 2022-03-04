@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm Yehezkiel David Setiawan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<hr>
 <h3 align="center"> 2<sup>nd</sup> semester student of Informatics Engineering at Maranatha Christian University</h3>
 <hr>
 <p align="center">
