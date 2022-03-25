@@ -8,6 +8,7 @@
 
 - I’m currently learning Web Development and Python Prog. Language
 - Reach me **yehezkieldavid2006@gmail.com** & **2172003@maranatha.ac.id**
+- https://yehezkieldavid.netlify.app/
 - EAT, SLEEP, CODE
 
 <br>
