@@ -38,17 +38,17 @@
 <br>
 <h3>Statistical Data :</h3>
 <p><img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YehezkielDavid06&show_icons=true&locale=en&layout=compact"
-    alt="YehezkielDavid06" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=CriticalSyntaxError&show_icons=true&locale=en&layout=compact"
+    alt="CriticalSyntaxError" /></p>
 
 <br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=YehezkielDavid06&show_icons=true&locale=en"
-    alt="YehezkielDavid06" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=CriticalSyntaxError&show_icons=true&locale=en"
+    alt="CriticalSyntaxError" /></p>
 
 <br>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=YehezkielDavid06&" alt="adam-pw" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=CriticalSyntaxError&" alt="CriticalSyntaxError" /></p>
 
 <br>
 
@@ -57,8 +57,8 @@
 ## Let's Connect
 <p>
 	<a href="mailto:yehezkieldavid2006@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/YehezkielDavid06"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/yehezkiel-david-setiawan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/CriticalSyntaxError"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/y-david-s/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/syntax._error"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
