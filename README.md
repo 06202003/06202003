@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Yehezkiel David Setiawan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> 4<sup>th</sup> semester student of Informatics Engineering at Maranatha Christian University</h3>
+<h3 align="center"> 5<sup>th</sup> semester student of Informatics Engineering at Maranatha Christian University</h3>
 <hr>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Web+Development+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
@@ -38,17 +38,17 @@
 <br>
 <h3>Statistical Data :</h3>
 <p><img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CriticalSyntaxError&show_icons=true&locale=en&layout=compact"
-    alt="CriticalSyntaxError" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=06202003&show_icons=true&locale=en&layout=compact"
+    alt="06202003" /></p>
 
 <br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=CriticalSyntaxError&show_icons=true&locale=en"
-    alt="CriticalSyntaxError" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=06202003&show_icons=true&locale=en"
+    alt="06202003" /></p>
 
 <br>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=CriticalSyntaxError&" alt="CriticalSyntaxError" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=06202003&" alt="06202003" /></p>
 
 <br>
 
