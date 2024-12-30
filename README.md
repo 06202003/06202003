@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Yehezkiel David Setiawan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center"> 6<sup>th</sup> semester student of Informatics Engineering at Maranatha Christian University</h3>
+<h3 align="center"> Final semester student of Informatics Engineering at Maranatha Christian University</h3>
 <hr>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Engineering+Student;Web+Development+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
@@ -18,11 +18,10 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"   alt="tailwindcss" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"  width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"  width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"  width="40" height="40"/>
