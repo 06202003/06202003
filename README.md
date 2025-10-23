@@ -31,8 +31,8 @@
 
 <br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=06202003&show_icons=true&locale=en"
-    alt="06202003" /></p>
+<!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=06202003&show_icons=true&locale=en"
+    alt="06202003" /></p> -->
 
 <br>
 
