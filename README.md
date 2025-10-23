@@ -2,11 +2,11 @@
 <h3 align="center"> Fresh Graduate in Informatics Engineering at Maranatha Christian University</h3>
 <hr>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Web+Development+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI+%26+LLM+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" /></p>
 
-- Reach me **yehezkieldavid2006@gmail.com** or **2172003@maranatha.ac.id**
+- Reach me **yehezkieldavid2006@gmail.com** or **2479011@maranatha.ac.id**
 - https://yehezkiel.netlify.app/
 - EAT, SLEEP, CODE
 
